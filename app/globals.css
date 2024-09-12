@@ -25,3 +25,15 @@ body {
     text-wrap: balance;
   }
 }
+
+input{
+  background-image: url("../static/searchicon.png");
+  background-repeat: no-repeat;
+  background-position-y: center;
+  background-position-x: 7%;  
+}
+
+.firstsection{
+  background-image: url("../static/pagebg.jpg");
+  background-blend-mode: overlay;
+}
